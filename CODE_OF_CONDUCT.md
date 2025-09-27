@@ -1,1 +1,1 @@
-Any person who attempts to add a code of conduct to this project, will be banned.
+Any person who attempts to modify this code of conduct, will be banned.
